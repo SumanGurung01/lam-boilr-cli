@@ -10,7 +10,10 @@
   },
   "keywords": [
     "lam-cli",
-    "lam"
+    "lam",
+    "lam-boilr-cli",
+    "boilr-cli",
+    "lam-boilr"
   ],
   "author": "Suman Gurung",
   "license": "ISC",
